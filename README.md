@@ -12,5 +12,6 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/laravel-DC143C?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="vuejs" src="https://img.shields.io/badge/vue.js-00FF7F?style=for-the-badge&logo=vue.js&logoColor=gray">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-BF40BF?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="php" src="https://img.shields.io/badge/react-BF40BF?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br/>
