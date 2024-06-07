@@ -17,3 +17,6 @@
 
 ## <code>Databases</code>
 <a title="MySQL" href="#"><img src="others/img/mysql.svg" alt="MySQL" width="28px" height="28px"></a>
+
+## <code>Infra</code>
+<a title="AWS" href="#"><img src="others/img/aws.png" alt="AWS" width="28px" height="28px"></a>
