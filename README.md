@@ -7,6 +7,7 @@
 <a title="WordPress" href="#"><img src="others/img/wordpress.svg" alt="WordPress" width="28px" height="28px"></a>
 <a title="JavaScript" href="#"><img src="others/img/js.svg" alt="JavaScript" width="28px" height="28px"></a>
 <a title="React" href="#"><img src="others/img/react.svg" alt="React" width="28px" height="28px"></a>
+<a title="React Native" href="#"><img src="others/img/react-native.svg" alt="React Native" width="28px" height="28px"></a>
 <a title="HTML5" href="#"><img src="others/img/html5.svg" alt="HTML" width="28px" height="28px"></a>
 <a title="CSS3" href="#"><img src="others/img/css3.svg" alt="CSS" width="28px" height="28px"></a>
 <a title="Git" href="#"><img src="others/img/git.svg" alt="Git" width="28px" height="28px"></a>
