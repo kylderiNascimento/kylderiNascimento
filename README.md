@@ -14,3 +14,5 @@
 
 ## <code>Frameworks</code>
 <a title="WordPress" href="#"><img src="others/img/wordpress.svg" alt="WordPress" width="28px" height="28px"></a>
+<a title="CodeIgniter" href="#"><img src="others/img/codeigniter.png" alt="CodeIgniter" width="28px" height="28px"></a>
+<a title="Laravel" href="#"><img src="others/img/laravel.svg" alt="Laravel" width="28px" height="28px"></a>
