@@ -17,4 +17,3 @@
 
 ## <code>Databases</code>
 <a title="MySQL" href="#"><img src="others/img/mysql.svg" alt="MySQL" width="28px" height="28px"></a>
-<a title="PostgreSQL" href="#"><img src="others/img/postgresql.svg" alt="PostgreSQL" width="28px" height="28px"></a>
